@@ -80,7 +80,7 @@ To configure Azure AD single sign-on with TigerConnect Secure Messenger, take th
 
     1. In the **Identifier (Entity ID)** box, type a URL by using the following pattern:
 
-       `https://saml-lb.tigertext.me/v1/organization/<INSTANCE_ID>`
+       `https://saml-lb.tigertext.me/v1/organization/<INSTANCE_ID>/saml/metadata`
 
     > [!NOTE]
     > The **Identifier (Entity ID)** value isn't real. Update this value with the actual identifier. To get the value, contact the [TigerConnect Secure Messenger support team](mailto:prosupport@tigertext.com). You can also refer to the patterns shown in the **Basic SAML Configuration** pane in the Azure portal.
